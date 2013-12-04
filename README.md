@@ -1,4 +1,4 @@
 HelloMinecraft
 ==============
 
-Input from a physical button into the Minecraft world 
+Physical input into the Minecraft world 
